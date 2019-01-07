@@ -242,7 +242,6 @@ def practice_problem2b(sequence):
             s += sequence[k][0]
     return s
 
-
 ###############################################################################
 # Our tests use the following to print error messages in red.
 # Do NOT change it.  You do NOT have to do anything with it.
